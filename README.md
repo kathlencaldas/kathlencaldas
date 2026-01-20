@@ -19,7 +19,7 @@
 ---
 
 ## 👩‍💼 Sobre mim
-Sou **Engenheira da Computação**, com interesse em projetos que integram **hardware e software**.  
+Estudante de **Engenharia da Computação**, com interesse em projetos que integram **hardware e software**.  
 Tenho base em **eletrônica** e **robótica**, e atualmente estou focada no aprendizado de **Python**, por ser uma linguagem versátil e amplamente utilizada no mercado, com aplicações em automação, testes, dados e sistemas inteligentes.
 
 ## 🌱 O que estou estudando no momento
