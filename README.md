@@ -1,10 +1,5 @@
 
-<h2 align="center">Kathlen Caldas</h2>
-
-<p align="center">
-  👩‍💻 Engenheira da Computação <br>
-  ⚙️ Eletrônica • 🤖 Robótica • 💻 Programação <br>
-  🐍 Foco atual: Python
+<h2 align="center"> Olá, sou Kathlen Caldas!</h2>
 </p>
 
 <p align="center">
@@ -27,23 +22,11 @@
 Sou **Engenheira da Computação**, com interesse em projetos que integram **hardware e software**.  
 Tenho base em **eletrônica** e **robótica**, e atualmente estou focada no aprendizado de **Python**, por ser uma linguagem versátil e amplamente utilizada no mercado, com aplicações em automação, testes, dados e sistemas inteligentes.
 
-
----
-
 ## 🌱 O que estou estudando no momento
 - Lógica de programação com Python
 - Git e GitHub
 - Testes de Software (QA)
 - Automação básica com Python
-
----
-
-## 🧠 Áreas de Atuação e Interesse
-- ⚙️ **Eletrônica**: circuitos, sensores, sistemas embarcados  
-- 🤖 **Robótica**: integração entre hardware e software  
-- 💻 **Programação**: Python e lógica aplicada  
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
